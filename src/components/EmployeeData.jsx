@@ -16,5 +16,11 @@ export const  data = [
         name:"ms dhoni",
         age:39,
         address:"Ranchi"
+    },
+    {
+        id:4,
+        name:"Sachin Tendulkar",
+        age:50,
+        address:"Mumbai"
     }
 ]
